@@ -1,0 +1,158 @@
+<type: Keyword, return >
+<type: Symbol, ( >
+<type: Identifier, $feature >
+<type: Symbol, . >
+<type: Identifier, POP_2010 >
+<type: Operator, / >
+<type: Identifier, $feature >
+<type: Symbol, . >
+<type: Identifier, POP_2000 >
+<type: Symbol, ) >
+<type: Operator, * >
+<type: Number, 100 >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Symbol, ( >
+<type: Identifier, $feature >
+<type: Symbol, . >
+<type: Identifier, POP_2010 >
+<type: Operator, / >
+<type: Identifier, $feature >
+<type: Symbol, . >
+<type: Identifier, POP_2000 >
+<type: Symbol, ) >
+<type: Operator, * >
+<type: Number, 100 >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, var >
+<type: Identifier, myArray >
+<type: Operator, = >
+<type: Symbol, [ >
+<type: Number, 10 >
+<type: Symbol, , >
+<type: Number, 20 >
+<type: Symbol, , >
+<type: Number, 30 >
+<type: Symbol, , >
+<type: Number, 40 >
+<type: Symbol, , >
+<type: Number, 50 >
+<type: Symbol, , >
+<type: Number, 60 >
+<type: Symbol, , >
+<type: Number, 70 >
+<type: Symbol, ] >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, var >
+<type: Identifier, sum >
+<type: Operator, = >
+<type: Number, 0 >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, for >
+<type: Symbol, ( >
+<type: Keyword, var >
+<type: Identifier, k >
+<type: Identifier, in >
+<type: Identifier, myArray >
+<type: Symbol, ) >
+<type: Symbol, { >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Identifier, sum >
+<type: Operator, + >
+<type: Operator, = >
+<type: Identifier, myArray >
+<type: Symbol, [ >
+<type: Identifier, k >
+<type: Symbol, ] >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Symbol, } >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, return >
+<type: Identifier, sum >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, var >
+<type: Identifier, myArray >
+<type: Operator, = >
+<type: Symbol, [ >
+<type: Number, 10 >
+<type: Symbol, , >
+<type: Number, 20 >
+<type: Symbol, , >
+<type: Number, 30 >
+<type: Symbol, , >
+<type: Number, 40 >
+<type: Symbol, , >
+<type: Number, 50 >
+<type: Symbol, , >
+<type: Number, 60 >
+<type: Symbol, , >
+<type: Number, 70 >
+<type: Symbol, ] >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, var >
+<type: Identifier, sum >
+<type: Operator, = >
+<type: Number, 0 >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Keyword, for >
+<type: Symbol, ( >
+<type: Keyword, var >
+<type: Identifier, k >
+<type: Identifier, in >
+<type: Identifier, myArray >
+<type: Symbol, ) >
+<type: Symbol, { >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Identifier, sum >
+<type: Operator, + >
+<type: Operator, = >
+<type: Identifier, myArray >
+<type: Symbol, [ >
+<type: Identifier, k >
+<type: Symbol, ] >
+<type: Symbol, ; >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Symbol, } >
+<type: LineFeed,  >
+<type: LineFeed, 
+ >
+<type: Identifier, sum >
+<type: Symbol, ; >
